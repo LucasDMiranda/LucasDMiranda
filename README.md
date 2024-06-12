@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 🚙
 
-<!--
-**LucasDMiranda/LucasDMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Dutra
 
-Here are some ideas to get you started:
+- Gosto muito de carros esportivos.
+- Gosto de jogos
+- Gosto de anime
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📪
+
+lucasdutra079@gmail.com
+
+lucas.D@miranda
+
+![](https://media1.tenor.com/m/B6brocyl0ZAAAAAC/koenigsegg-agera-r.gif)
